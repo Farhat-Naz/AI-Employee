@@ -9,6 +9,15 @@ Gold/MCP_Servers/audit/audit_config.json
 Gold/Integrations/facebook_instagram/fb_ig_config.json
 Gold/Integrations/twitter/twitter_config.json
 
+# ── Environment & Keys ─────────────────────────────────────────────────────────
+.env
+*.token
+*.key
+*.pem
+secrets/
+whatsapp_session/
+banking_creds/
+
 # ── Python cache ───────────────────────────────────────────────────────────────
 __pycache__/
 *.pyc
