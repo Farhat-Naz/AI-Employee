@@ -1,0 +1,21 @@
+[Unit]
+Description=Platinum File Watcher — claim-by-move, triggers email_drafter
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/AI_Employee_Vault
+ExecStart=/home/ubuntu/venv/bin/python Platinum/Cloud/Watchers/file_watcher.py
+Restart=on-failure
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=platinum-file-watcher
+Environment=PYTHONUNBUFFERED=1
+Environment=PYTHONIOENCODING=utf-8
+EnvironmentFile=-/home/ubuntu/AI_Employee_Vault/.env
+
+[Install]
+WantedBy=multi-user.target

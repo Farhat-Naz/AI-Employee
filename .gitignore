@@ -9,6 +9,14 @@ Gold/MCP_Servers/audit/audit_config.json
 Gold/Integrations/facebook_instagram/fb_ig_config.json
 Gold/Integrations/twitter/twitter_config.json
 
+# ── Platinum Secrets ───────────────────────────────────────────────────────────
+Platinum/Cloud/credentials.json
+Platinum/Cloud/token.json
+Platinum/Cloud/client_secret*.json
+Platinum/.env
+Platinum/Local/MCP/wa_session/
+*.session
+
 # ── Environment & Keys ─────────────────────────────────────────────────────────
 .env
 *.token

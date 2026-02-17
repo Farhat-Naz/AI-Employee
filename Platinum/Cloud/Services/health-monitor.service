@@ -1,0 +1,20 @@
+[Unit]
+Description=Platinum Health Monitor — checks processes, disk, logs every 5min
+After=network-online.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/AI_Employee_Vault
+ExecStart=/home/ubuntu/venv/bin/python Platinum/Cloud/health_monitor.py --loop
+Restart=on-failure
+RestartSec=30
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=platinum-health-monitor
+Environment=PYTHONUNBUFFERED=1
+Environment=PYTHONIOENCODING=utf-8
+EnvironmentFile=-/home/ubuntu/AI_Employee_Vault/.env
+
+[Install]
+WantedBy=multi-user.target

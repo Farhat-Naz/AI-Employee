@@ -1,0 +1,57 @@
+{
+  "_comment": "MCP (Model Context Protocol) configuration for Platinum Local tier",
+  "_note": "Phase 2 — Fill in tokens when ready to enable actual sending",
+
+  "gmail": {
+    "enabled": false,
+    "credentials_file": "Cloud/credentials.json",
+    "token_file": "Cloud/token.json",
+    "send_from": "",
+    "_setup": "Enable Gmail API, download credentials.json, run gmail_watcher.py once for OAuth"
+  },
+
+  "facebook": {
+    "enabled": false,
+    "page_id": "",
+    "page_access_token": "",
+    "_setup": "Get from Facebook Developers > Your App > Page Access Token"
+  },
+
+  "instagram": {
+    "enabled": false,
+    "instagram_account_id": "",
+    "access_token": "",
+    "_setup": "Linked via Facebook Business Account — same token as Facebook"
+  },
+
+  "twitter": {
+    "enabled": false,
+    "api_key": "",
+    "api_secret": "",
+    "access_token": "",
+    "access_token_secret": "",
+    "_setup": "Get from developer.twitter.com > Project > Keys and Tokens"
+  },
+
+  "linkedin": {
+    "enabled": false,
+    "access_token": "",
+    "_setup": "LinkedIn Developer Portal > OAuth 2.0 > r_liteprofile + w_member_social"
+  },
+
+  "whatsapp": {
+    "enabled": true,
+    "provider": "green-api",
+    "config_file": "../../Silver/Watchers/whatsapp_config.json",
+    "_note": "Already working from Silver tier — shared config"
+  },
+
+  "odoo": {
+    "enabled": false,
+    "url": "http://localhost:8069",
+    "db": "",
+    "username": "",
+    "password": "",
+    "_note": "Link to Gold/MCP_Servers/odoo/ when ready"
+  }
+}
