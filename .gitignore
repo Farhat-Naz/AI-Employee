@@ -1,0 +1,24 @@
+# ── Secrets & Credentials (NEVER commit these) ────────────────────────────────
+Silver/Watchers/credentials.json
+Silver/Watchers/token.json
+Silver/Watchers/whatsapp_config.json
+
+Gold/MCP_Servers/odoo/odoo_config.json
+Gold/MCP_Servers/social/social_config.json
+Gold/MCP_Servers/audit/audit_config.json
+Gold/Integrations/facebook_instagram/fb_ig_config.json
+Gold/Integrations/twitter/twitter_config.json
+
+# ── Python cache ───────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+
+# ── Obsidian local config ──────────────────────────────────────────────────────
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# ── OS files ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
