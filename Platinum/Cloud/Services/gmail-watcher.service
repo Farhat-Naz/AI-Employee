@@ -1,0 +1,21 @@
+[Unit]
+Description=Platinum Gmail Watcher — polls Gmail inbox for new emails
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/AI_Employee_Vault
+ExecStart=/home/ubuntu/venv/bin/python Platinum/Cloud/Watchers/gmail_watcher.py
+Restart=on-failure
+RestartSec=15
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=platinum-gmail-watcher
+Environment=PYTHONUNBUFFERED=1
+Environment=PYTHONIOENCODING=utf-8
+EnvironmentFile=-/home/ubuntu/AI_Employee_Vault/.env
+
+[Install]
+WantedBy=multi-user.target

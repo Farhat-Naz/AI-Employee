@@ -1,0 +1,21 @@
+[Unit]
+Description=Platinum Orchestrator — manages all Cloud subprocesses
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/AI_Employee_Vault
+ExecStart=/home/ubuntu/venv/bin/python Platinum/Cloud/orchestrator.py
+Restart=on-failure
+RestartSec=30
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=platinum-orchestrator
+Environment=PYTHONUNBUFFERED=1
+Environment=PYTHONIOENCODING=utf-8
+EnvironmentFile=-/home/ubuntu/AI_Employee_Vault/.env
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,85 @@
+[2026-02-17 21:44:59] | RalphWiggumLoop        | plan                         | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:44:59] | RalphWiggumLoop        | plan                         | success    |      0ms | GOLD-TEST-001_weekly-report | 4 steps found
+[2026-02-17 21:44:59] | RalphWiggumLoop        | act_step_1                   | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:00] | RalphWiggumLoop        | act_step_1                   | success    |    300ms | GOLD-TEST-001_weekly-report | Task history se completed tasks collect karo
+[2026-02-17 21:45:00] | RalphWiggumLoop        | observe_1                    | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:00] | RalphWiggumLoop        | observe_1                    | success    |      0ms | GOLD-TEST-001_weekly-report | Step completed successfully
+[2026-02-17 21:45:00] | RalphWiggumLoop        | reflect_1                    | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:00] | RalphWiggumLoop        | reflect_1                    | step_done  |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:00] | RalphWiggumLoop        | act_step_2                   | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:00] | RalphWiggumLoop        | act_step_2                   | success    |    300ms | GOLD-TEST-001_weekly-report | Silver tier Needs_Action aur Done folders check karo
+[2026-02-17 21:45:00] | RalphWiggumLoop        | observe_2                    | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:00] | RalphWiggumLoop        | observe_2                    | success    |      0ms | GOLD-TEST-001_weekly-report | Step completed successfully
+[2026-02-17 21:45:00] | RalphWiggumLoop        | reflect_2                    | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:00] | RalphWiggumLoop        | reflect_2                    | step_done  |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:00] | RalphWiggumLoop        | act_step_3                   | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:01] | RalphWiggumLoop        | act_step_3                   | success    |    300ms | GOLD-TEST-001_weekly-report | Summary document tayyar karo
+[2026-02-17 21:45:01] | RalphWiggumLoop        | observe_3                    | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:01] | RalphWiggumLoop        | observe_3                    | success    |      0ms | GOLD-TEST-001_weekly-report | Step completed successfully
+[2026-02-17 21:45:01] | RalphWiggumLoop        | reflect_3                    | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:01] | RalphWiggumLoop        | reflect_3                    | step_done  |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:01] | RalphWiggumLoop        | act_step_4                   | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:01] | RalphWiggumLoop        | act_step_4                   | success    |    300ms | GOLD-TEST-001_weekly-report | Dashboard update karo with weekly stats
+[2026-02-17 21:45:01] | RalphWiggumLoop        | observe_4                    | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:01] | RalphWiggumLoop        | observe_4                    | success    |      0ms | GOLD-TEST-001_weekly-report | Step completed successfully
+[2026-02-17 21:45:01] | RalphWiggumLoop        | reflect_4                    | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:01] | RalphWiggumLoop        | reflect_4                    | step_done  |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:01] | RalphWiggumLoop        | task_complete                | success    |      0ms | GOLD-TEST-001_weekly-report | 4 steps in 4 iterations
+[2026-02-17 21:45:38] | RalphWiggumLoop        | plan                         | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:38] | RalphWiggumLoop        | plan                         | success    |      0ms | GOLD-TEST-001_weekly-report | 4 steps found
+[2026-02-17 21:45:38] | RalphWiggumLoop        | act_step_1                   | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:39] | RalphWiggumLoop        | act_step_1                   | success    |    300ms | GOLD-TEST-001_weekly-report | Task history se completed tasks collect karo
+[2026-02-17 21:45:39] | RalphWiggumLoop        | observe_1                    | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:39] | RalphWiggumLoop        | observe_1                    | success    |      0ms | GOLD-TEST-001_weekly-report | Step completed successfully
+[2026-02-17 21:45:39] | RalphWiggumLoop        | reflect_1                    | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:39] | RalphWiggumLoop        | reflect_1                    | step_done  |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:39] | RalphWiggumLoop        | act_step_2                   | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:39] | RalphWiggumLoop        | act_step_2                   | success    |    300ms | GOLD-TEST-001_weekly-report | Silver tier Needs_Action aur Done folders check karo
+[2026-02-17 21:45:39] | RalphWiggumLoop        | observe_2                    | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:39] | RalphWiggumLoop        | observe_2                    | success    |      0ms | GOLD-TEST-001_weekly-report | Step completed successfully
+[2026-02-17 21:45:39] | RalphWiggumLoop        | reflect_2                    | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:39] | RalphWiggumLoop        | reflect_2                    | step_done  |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:39] | RalphWiggumLoop        | act_step_3                   | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:39] | RalphWiggumLoop        | act_step_3                   | success    |    300ms | GOLD-TEST-001_weekly-report | Summary document tayyar karo
+[2026-02-17 21:45:39] | RalphWiggumLoop        | observe_3                    | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:39] | RalphWiggumLoop        | observe_3                    | success    |      0ms | GOLD-TEST-001_weekly-report | Step completed successfully
+[2026-02-17 21:45:39] | RalphWiggumLoop        | reflect_3                    | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:39] | RalphWiggumLoop        | reflect_3                    | step_done  |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:39] | RalphWiggumLoop        | act_step_4                   | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:40] | RalphWiggumLoop        | act_step_4                   | success    |    300ms | GOLD-TEST-001_weekly-report | Dashboard update karo with weekly stats
+[2026-02-17 21:45:40] | RalphWiggumLoop        | observe_4                    | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:40] | RalphWiggumLoop        | observe_4                    | success    |      0ms | GOLD-TEST-001_weekly-report | Step completed successfully
+[2026-02-17 21:45:40] | RalphWiggumLoop        | reflect_4                    | STARTED    |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:40] | RalphWiggumLoop        | reflect_4                    | step_done  |      0ms | GOLD-TEST-001_weekly-report
+[2026-02-17 21:45:40] | RalphWiggumLoop        | task_complete                | success    |      0ms | GOLD-TEST-001_weekly-report | 4 steps in 4 iterations
+[2026-02-17 21:58:17] | FileWatcher_Gold       | watcher_start                | success    |      0ms | -
+[2026-02-17 21:58:17] | FileWatcher_Gold       | classify_and_route           | Needs_Action |      1ms | WA_test_gold_pipeline.md | risk=medium
+[2026-02-17 21:58:17] | FileWatcher_Gold       | trigger_ralph_loop           | started    |      0ms | WA_test_gold_pipeline.md
+[2026-02-17 21:58:17] | RalphWiggumLoop        | plan                         | STARTED    |      0ms | WA_test_gold_pipeline
+[2026-02-17 21:58:17] | RalphWiggumLoop        | plan                         | success    |     15ms | WA_test_gold_pipeline | 4 steps found
+[2026-02-17 21:58:17] | RalphWiggumLoop        | act_step_1                   | STARTED    |      0ms | WA_test_gold_pipeline
+[2026-02-17 21:58:17] | RalphWiggumLoop        | act_step_1                   | success    |    300ms | WA_test_gold_pipeline | Gold Done/ folder mein completed tasks count karo
+[2026-02-17 21:58:17] | RalphWiggumLoop        | observe_1                    | STARTED    |      0ms | WA_test_gold_pipeline
+[2026-02-17 21:58:17] | RalphWiggumLoop        | observe_1                    | success    |      0ms | WA_test_gold_pipeline | Step completed successfully
+[2026-02-17 21:58:17] | RalphWiggumLoop        | reflect_1                    | STARTED    |      0ms | WA_test_gold_pipeline
+[2026-02-17 21:58:17] | RalphWiggumLoop        | reflect_1                    | step_done  |      0ms | WA_test_gold_pipeline
+[2026-02-17 21:58:17] | RalphWiggumLoop        | act_step_2                   | STARTED    |      0ms | WA_test_gold_pipeline
+[2026-02-17 21:58:17] | RalphWiggumLoop        | act_step_2                   | success    |    300ms | WA_test_gold_pipeline | Silver Done/ folder bhi check karo
+[2026-02-17 21:58:17] | RalphWiggumLoop        | observe_2                    | STARTED    |      0ms | WA_test_gold_pipeline
+[2026-02-17 21:58:17] | RalphWiggumLoop        | observe_2                    | success    |      0ms | WA_test_gold_pipeline | Step completed successfully
+[2026-02-17 21:58:17] | RalphWiggumLoop        | reflect_2                    | STARTED    |      0ms | WA_test_gold_pipeline
+[2026-02-17 21:58:17] | RalphWiggumLoop        | reflect_2                    | step_done  |      0ms | WA_test_gold_pipeline
+[2026-02-17 21:58:17] | RalphWiggumLoop        | act_step_3                   | STARTED    |      0ms | WA_test_gold_pipeline
+[2026-02-17 21:58:18] | RalphWiggumLoop        | act_step_3                   | success    |    300ms | WA_test_gold_pipeline | Dashboard mein today's summary update karo
+[2026-02-17 21:58:18] | RalphWiggumLoop        | observe_3                    | STARTED    |      0ms | WA_test_gold_pipeline
+[2026-02-17 21:58:18] | RalphWiggumLoop        | observe_3                    | success    |      0ms | WA_test_gold_pipeline | Step completed successfully
+[2026-02-17 21:58:18] | RalphWiggumLoop        | reflect_3                    | STARTED    |      0ms | WA_test_gold_pipeline
+[2026-02-17 21:58:18] | RalphWiggumLoop        | reflect_3                    | step_done  |      0ms | WA_test_gold_pipeline
+[2026-02-17 21:58:18] | RalphWiggumLoop        | act_step_4                   | STARTED    |      0ms | WA_test_gold_pipeline
+[2026-02-17 21:58:18] | RalphWiggumLoop        | act_step_4                   | success    |    300ms | WA_test_gold_pipeline | Confirmation note banao
+[2026-02-17 21:58:18] | RalphWiggumLoop        | observe_4                    | STARTED    |      0ms | WA_test_gold_pipeline
+[2026-02-17 21:58:18] | RalphWiggumLoop        | observe_4                    | success    |      0ms | WA_test_gold_pipeline | Step completed successfully
+[2026-02-17 21:58:18] | RalphWiggumLoop        | reflect_4                    | STARTED    |      0ms | WA_test_gold_pipeline
+[2026-02-17 21:58:18] | RalphWiggumLoop        | reflect_4                    | step_done  |      0ms | WA_test_gold_pipeline
+[2026-02-17 21:58:18] | RalphWiggumLoop        | task_complete                | success    |      0ms | WA_test_gold_pipeline | 4 steps in 4 iterations
+[2026-02-17 21:58:18] | FileWatcher_Gold       | ralph_loop_done              | ERROR      |      0ms | WA_test_gold_pipeline.md | 'charmap' codec can't encode character '\ufffd' in position 32: character maps to <undefined>
