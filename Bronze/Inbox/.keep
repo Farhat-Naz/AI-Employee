@@ -1,0 +1,2 @@
+# Inbox — drop incoming task files here
+# The agent will scan this folder and move files to /Needs_Action with metadata
